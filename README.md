@@ -85,8 +85,8 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="28"/> </a> 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yildiz3&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yildiz3&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=meryemtetik&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meryemtetik&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemtetik&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 <!---
 **meryemtetik/meryemtetik** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
