@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h2> 👋   Hi there! I'm Meryem Tetik...:wave: ✨ </h2>
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="<iframe src="https://giphy.com/embed/rIoxLYIJBnkcWLafTE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Bitrix24com-bitrix24-bitrix-bitrix24office-rIoxLYIJBnkcWLafTE">via GIPHY</a></p>" width="500" height="320" />
 
 
 
